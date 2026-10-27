@@ -1,0 +1,5 @@
+echo hs_err_pid*.log>>.gitignore
+echo replay_pid*.log>>.gitignore
+echo target/>>.gitignore
+echo frontend/node_modules/>>.gitignore
+echo frontend/dist/>>.gitignore
